@@ -23,7 +23,6 @@ const Overview = () => {
     <div className="p-4  min-h-screen">
       <div className="mb-6">
         <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">Sales Performance Dashboard</h1>
-        <p className="text-gray-600 dark:text-gray-100">March - April 2023</p>
       </div>
       
 
