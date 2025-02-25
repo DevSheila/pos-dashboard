@@ -15,13 +15,12 @@ const OverviewTab = ({ dailyData, categoryData }) => {
       />
 
       {/* Sales by Category */}
-
       <BarChartComponent
         data={categoryData}
         xKey="category"
         dataKey="sales"
         name="Sales by Product Category"
-        desc="Displays which product categories are generating the most revenue"
+        desc="Displays which product categories generate the most revenue"
       />
 
       {/* Daily Order Count */}
@@ -46,5 +45,6 @@ const OverviewTab = ({ dailyData, categoryData }) => {
     </div>
   );
 };
+
 
 export default OverviewTab;

@@ -131,7 +131,7 @@ const SideNavbar = () => {
             style={{ backgroundImage: `url(${whiteCurvedImg})` }}
           >
             <Button className="rounded-xl mb-3 w-full bg-blue-800 text-white hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-600">
-              <a href="/upgrade">Upgrade to Pro</a>
+              <a href="#">Upgrade to Pro</a>
             </Button>
             <p className="text-sm text-gray-900 ">
               Unlock exclusive tools and advanced  features.

@@ -43,7 +43,7 @@ const KPICard = ({ title, value, icon, bgColor }) => {
           <p className="text-2xl font-bold ">{value}</p>
         </div>
         <div className={`bg-${bgColor}-100 p-2 rounded-full`}>
-          <div className={`w-6 h-6 text-${bgColor}-500`}>
+          <div className={`w-6 h-6 text-${bgColor}-500 dark:text-gray-800`}>
             {icon}
           </div>
         </div>

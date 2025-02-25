@@ -8,7 +8,6 @@ const apiService = {
 
   // Fetch orders with cache validation
   async fetchOrders() {
-    // In a real app, this would be an API call
     return new Promise((resolve) => {
       setTimeout(() => {
         resolve(sampleOrders);
@@ -18,7 +17,6 @@ const apiService = {
 
   // Fetch transactions with cache validation
   async fetchTransactions() {
-    // In a real app, this would be an API call
     return new Promise((resolve) => {
       setTimeout(() => {
         resolve(sampleTransactions);

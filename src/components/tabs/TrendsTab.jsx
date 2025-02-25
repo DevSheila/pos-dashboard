@@ -2,7 +2,6 @@ import React from "react";
 import LineChartComponent from "../charts/LineChart";
 import BarChartComponent from "../charts/BarChart";
 
-
 const TrendsTab = ({ dailyData }) => {
   // Calculate average order value for each day
   const dataWithAvg = dailyData.map((day) => ({
@@ -23,7 +22,6 @@ const TrendsTab = ({ dailyData }) => {
         showLine
       />
 
-
       {/* Average Order Value Trend */}
       <LineChartComponent
         data={dataWithAvg}
@@ -34,10 +32,9 @@ const TrendsTab = ({ dailyData }) => {
         color="#8884d8"
         className="col-span-1 md:col-span-2"
       />
-
-
     </div>
   );
 };
+
 
 export default TrendsTab;
