@@ -40,7 +40,7 @@ const Overview = () => {
   return (
     <div className="p-4 min-h-screen">
       <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">
-        Sales Performance Dashboard
+        Overview
       </h1>
 
       {/* KPI Summary */}

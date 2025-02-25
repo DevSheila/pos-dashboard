@@ -64,34 +64,34 @@ const DashboardStats = () => {
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
       <Card className="bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100">
         <CardContent className="pt-6">
-          <div className="text-2xl font-bold">{stats.totalOrders}</div>
           <p className="text-xs text-gray-500 mt-1">Total Orders</p>
+          <div className="text-2xl font-bold">{stats.totalOrders}</div>
         </CardContent>
       </Card>
 
       <Card className="bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100">
         <CardContent className="pt-6">
+          <p className="text-xs text-gray-500 mt-1">Total Revenue</p>
           <div className="text-2xl font-bold">
             {formatCurrency(stats.totalAmount)}
           </div>
-          <p className="text-xs text-gray-500 mt-1">Total Revenue</p>
         </CardContent>
       </Card>
 
       <Card className="bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100">
         <CardContent className="pt-6">
-          <div className="text-2xl font-bold">{stats.deliveredPercentage}%</div>
           <p className="text-xs text-gray-500 mt-1">Delivery Rate</p>
+          <div className="text-2xl font-bold">{stats.deliveredPercentage}%</div>
         </CardContent>
       </Card>
 
       <Card className="bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100">
         <CardContent className="pt-6">
-          <div className="text-2xl font-bold">{stats.topPaymentMethod}</div>
           <p className="text-xs text-gray-500 mt-1">Popular Payment Method</p>
+          <div className="text-2xl font-bold">{stats.topPaymentMethod}</div>
         </CardContent>
       </Card>
     </div>
   );
 };
-export default DashboardStats
+export default DashboardStats;
