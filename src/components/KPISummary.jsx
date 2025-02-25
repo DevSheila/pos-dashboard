@@ -7,7 +7,7 @@ const KPISummary = ({ stats }) => {
     <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
       <KPICard 
         title="Total Revenue" 
-        value={`$${totalRevenue.toFixed(2)}`} 
+        value={`KES ${totalRevenue.toFixed(2)}`} 
         icon={<MoneyIcon />} 
         bgColor="blue" 
       />
@@ -25,7 +25,7 @@ const KPISummary = ({ stats }) => {
       />
       <KPICard 
         title="Avg. Order Value" 
-        value={`$${averageOrderValue.toFixed(2)}`} 
+        value={`KES ${averageOrderValue.toFixed(2)}`} 
         icon={<CalculatorIcon />} 
         bgColor="purple" 
       />
