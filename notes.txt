@@ -1,0 +1,14 @@
+Convert this component to use recharts and shadcn charts
+
+[
+
+
+]
+
+
+into somthing like this
+
+[
+
+
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "SaleID": 1,
+    "ProductID": 101,
+    "CustomerID": 1001,
+    "SaleDate": "2023-03-01",
+    "Quantity": 2,
+    "TotalAmount": 50.00
+  },
+  {
+    "SaleID": 2,
+    "ProductID": 102,
+    "CustomerID": 1002,
+    "SaleDate": "2023-03-02",
+    "Quantity": 1,
+    "TotalAmount": 30.00
+  },
+  {
+    "SaleID": 3,
+    "ProductID": 103,
+    "CustomerID": 1003,
+    "SaleDate": "2023-03-03",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 4,
+    "ProductID": 101,
+    "CustomerID": 1001,
+    "SaleDate": "2023-03-04",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 5,
+    "ProductID": 104,
+    "CustomerID": 1004,
+    "SaleDate": "2023-03-05",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 6,
+    "ProductID": 105,
+    "CustomerID": 1005,
+    "SaleDate": "2023-03-06",
+    "Quantity": 2,
+    "TotalAmount": 60.00
+  },
+  {
+    "SaleID": 7,
+    "ProductID": 106,
+    "CustomerID": 1006,
+    "SaleDate": "2023-03-07",
+    "Quantity": 4,
+    "TotalAmount": 120.00
+  },
+  {
+    "SaleID": 8,
+    "ProductID": 107,
+    "CustomerID": 1007,
+    "SaleDate": "2023-03-08",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 9,
+    "ProductID": 108,
+    "CustomerID": 1008,
+    "SaleDate": "2023-03-09",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 10,
+    "ProductID": 109,
+    "CustomerID": 1009,
+    "SaleDate": "2023-03-10",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 11,
+    "ProductID": 110,
+    "CustomerID": 1010,
+    "SaleDate": "2023-03-11",
+    "Quantity": 2,
+    "TotalAmount": 50.00
+  },
+  {
+    "SaleID": 12,
+    "ProductID": 111,
+    "CustomerID": 1011,
+    "SaleDate": "2023-03-12",
+    "Quantity": 1,
+    "TotalAmount": 30.00
+  },
+  {
+    "SaleID": 13,
+    "ProductID": 112,
+    "CustomerID": 1012,
+    "SaleDate": "2023-03-13",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 14,
+    "ProductID": 113,
+    "CustomerID": 1013,
+    "SaleDate": "2023-03-14",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 15,
+    "ProductID": 114,
+    "CustomerID": 1014,
+    "SaleDate": "2023-03-15",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 16,
+    "ProductID": 115,
+    "CustomerID": 1015,
+    "SaleDate": "2023-03-16",
+    "Quantity": 2,
+    "TotalAmount": 60.00
+  },
+  {
+    "SaleID": 17,
+    "ProductID": 116,
+    "CustomerID": 1016,
+    "SaleDate": "2023-03-17",
+    "Quantity": 4,
+    "TotalAmount": 120.00
+  },
+  {
+    "SaleID": 18,
+    "ProductID": 117,
+    "CustomerID": 1017,
+    "SaleDate": "2023-03-18",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 19,
+    "ProductID": 118,
+    "CustomerID": 1018,
+    "SaleDate": "2023-03-19",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 20,
+    "ProductID": 119,
+    "CustomerID": 1019,
+    "SaleDate": "2023-03-20",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 21,
+    "ProductID": 120,
+    "CustomerID": 1020,
+    "SaleDate": "2023-03-21",
+    "Quantity": 2,
+    "TotalAmount": 50.00
+  },
+  {
+    "SaleID": 22,
+    "ProductID": 121,
+    "CustomerID": 1021,
+    "SaleDate": "2023-03-22",
+    "Quantity": 1,
+    "TotalAmount": 30.00
+  },
+  {
+    "SaleID": 23,
+    "ProductID": 122,
+    "CustomerID": 1022,
+    "SaleDate": "2023-03-23",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 24,
+    "ProductID": 123,
+    "CustomerID": 1023,
+    "SaleDate": "2023-03-24",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 25,
+    "ProductID": 124,
+    "CustomerID": 1024,
+    "SaleDate": "2023-03-25",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 26,
+    "ProductID": 125,
+    "CustomerID": 1025,
+    "SaleDate": "2023-03-26",
+    "Quantity": 2,
+    "TotalAmount": 60.00
+  },
+  {
+    "SaleID": 27,
+    "ProductID": 126,
+    "CustomerID": 1026,
+    "SaleDate": "2023-03-27",
+    "Quantity": 4,
+    "TotalAmount": 120.00
+  },
+  {
+    "SaleID": 28,
+    "ProductID": 127,
+    "CustomerID": 1027,
+    "SaleDate": "2023-03-28",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 29,
+    "ProductID": 128,
+    "CustomerID": 1028,
+    "SaleDate": "2023-03-29",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 30,
+    "ProductID": 129,
+    "CustomerID": 1029,
+    "SaleDate": "2023-03-30",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 31,
+    "ProductID": 130,
+    "CustomerID": 1030,
+    "SaleDate": "2023-03-31",
+    "Quantity": 2,
+    "TotalAmount": 50.00
+  },
+  {
+    "SaleID": 32,
+    "ProductID": 131,
+    "CustomerID": 1031,
+    "SaleDate": "2023-04-01",
+    "Quantity": 1,
+    "TotalAmount": 30.00
+  },
+  {
+    "SaleID": 33,
+    "ProductID": 132,
+    "CustomerID": 1032,
+    "SaleDate": "2023-04-02",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 34,
+    "ProductID": 133,
+    "CustomerID": 1033,
+    "SaleDate": "2023-04-03",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 35,
+    "ProductID": 134,
+    "CustomerID": 1034,
+    "SaleDate": "2023-04-04",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  },
+  {
+    "SaleID": 36,
+    "ProductID": 135,
+    "CustomerID": 1035,
+    "SaleDate": "2023-04-05",
+    "Quantity": 2,
+    "TotalAmount": 60.00
+  },
+  {
+    "SaleID": 37,
+    "ProductID": 136,
+    "CustomerID": 1036,
+    "SaleDate": "2023-04-06",
+    "Quantity": 4,
+    "TotalAmount": 120.00
+  },
+  {
+    "SaleID": 38,
+    "ProductID": 137,
+    "CustomerID": 1037,
+    "SaleDate": "2023-04-07",
+    "Quantity": 3,
+    "TotalAmount": 90.00
+  },
+  {
+    "SaleID": 39,
+    "ProductID": 138,
+    "CustomerID": 1038,
+    "SaleDate": "2023-04-08",
+    "Quantity": 1,
+    "TotalAmount": 25.00
+  },
+  {
+    "SaleID": 40,
+    "ProductID": 139,
+    "CustomerID": 1039,
+    "SaleDate": "2023-04-09",
+    "Quantity": 5,
+    "TotalAmount": 150.00
+  }
+]
